@@ -1,5 +1,6 @@
 public enum PriceType {
   Spread,
   Price,
-  DiscountMargin
+  DiscountMargin,
+  ZSpread
 }
